@@ -1,0 +1,1 @@
+import{g as o}from"./BTgY0xof.js";import{d as t,O as n}from"./D1AceMII.js";const r=t({name:"awaiter",props:[],mounted(){}});function a(e,s,m,d,f,p){return n(e.$slots,"default")}const l=o(r,[["render",a]]);export{l as default};
